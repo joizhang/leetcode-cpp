@@ -30,9 +30,15 @@
     <ClInclude Include="1.Two Sum\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="19. Remove Nth Node From End of List\solution.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.Two Sum\TEST.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19. Remove Nth Node From End of List\TEST.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
