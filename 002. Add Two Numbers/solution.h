@@ -19,4 +19,9 @@ public:
         }
         return dummy.next;
     }
+
+    ListNode* addTwoNumbers2(ListNode* l1, ListNode* l2) {
+        ListNode dummy(0), * tail = &dummy;
+        for (div_t )
+    }
 };

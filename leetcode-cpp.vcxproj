@@ -19,16 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="001.Two Sum\solution.h" />
-    <ClInclude Include="021. Merge Two Sorted Lists\solution.h" />
+    <ClInclude Include="027. Remove Element\solution.h" />
     <ClInclude Include="Catch2\single_include\catch2\catch.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_automake.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_tap.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_teamcity.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="001.Two Sum\TEST.cc" />
-    <ClCompile Include="021. Merge Two Sorted Lists\TEST.cpp" />
+    <ClCompile Include="027. Remove Element\TEST.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

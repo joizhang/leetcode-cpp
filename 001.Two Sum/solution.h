@@ -19,4 +19,15 @@ public:
         }
         return result;
     }
+
+    vector<int> twoSum2(vector<int>& nums, int target) {
+        unordered_map<int, int> record;
+        for (int i = 0; i != nums.size(); ++i) {
+            auto found = record.find(nums[i]);
+            if (found != record.end())
+                return { found->second, i };
+            record.emplace(target - nums[i], i);
+        }
+        return { -1, -1 };
+    }
 };
