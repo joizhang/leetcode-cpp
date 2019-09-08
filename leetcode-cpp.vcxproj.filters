@@ -27,8 +27,13 @@
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_teamcity.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="032. Longest Valid Parentheses\solution.h">
+    <ClInclude Include="030. Substring with Concatenation of All Words\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="030. Substring with Concatenation of All Words\TEST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

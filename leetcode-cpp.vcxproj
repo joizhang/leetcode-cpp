@@ -19,11 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="032. Longest Valid Parentheses\solution.h" />
+    <ClInclude Include="030. Substring with Concatenation of All Words\solution.h" />
     <ClInclude Include="Catch2\single_include\catch2\catch.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_automake.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_tap.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_teamcity.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="030. Substring with Concatenation of All Words\TEST.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
