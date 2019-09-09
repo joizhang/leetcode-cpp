@@ -27,12 +27,12 @@
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_teamcity.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="704. Binary Search\solution.h">
+    <ClInclude Include="035. Search Insert Position\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="704. Binary Search\TEST.cpp">
+    <ClCompile Include="035. Search Insert Position\TEST.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
