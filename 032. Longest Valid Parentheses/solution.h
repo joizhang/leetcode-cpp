@@ -10,7 +10,7 @@ public:
         int max_len = 0;
         int n = s.size();
         vector<int> dp(n);
-        for (int i = 0; i < n; ++i) {
+        for (int i = 1; i < n; ++i) {
             if (s[i] == ')') {
                 if (s[i - 1] == '(')
                     // 字符串形如"……()"

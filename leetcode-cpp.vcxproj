@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -19,14 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="030. Substring with Concatenation of All Words\solution.h" />
+    <ClInclude Include="704. Binary Search\solution.h" />
     <ClInclude Include="Catch2\single_include\catch2\catch.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_automake.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_tap.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_teamcity.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="030. Substring with Concatenation of All Words\TEST.cpp" />
+    <ClCompile Include="704. Binary Search\TEST.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

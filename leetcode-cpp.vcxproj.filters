@@ -27,12 +27,12 @@
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_teamcity.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="030. Substring with Concatenation of All Words\solution.h">
+    <ClInclude Include="704. Binary Search\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="030. Substring with Concatenation of All Words\TEST.cpp">
+    <ClCompile Include="704. Binary Search\TEST.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
