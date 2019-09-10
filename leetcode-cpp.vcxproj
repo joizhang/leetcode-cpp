@@ -19,14 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="035. Search Insert Position\solution.h" />
+    <ClInclude Include="038. Count and Say\solution.h" />
     <ClInclude Include="Catch2\single_include\catch2\catch.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_automake.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_tap.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_teamcity.hpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="035. Search Insert Position\TEST.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
