@@ -1,5 +1,7 @@
 #include <vector>
 #include <algorithm>
+#include <unordered_map>
+#include <set>
 
 using namespace std;
 
@@ -10,6 +12,24 @@ public:
         sort(candidates.begin(), candidates.end());
         vector<int> temp_list;
         backtrack(res, candidates, target, 0, temp_list);
+        return res;
+    }
+
+    // DP solution
+    vector<vector<int>> combinationSumDp(vector<int>& candidates, int target) {
+        unordered_map<int, set<vector<int>>> dict;
+        for (int i = 1; i <= target; i++)
+            for (int it : candidates)
+                if (i == it) dict[i].insert(vector<int>{it});
+                else if (i > it)
+                    for (auto ivec : dict[i - it]) {
+                        ivec.push_back(it);
+                        sort(ivec.begin(), ivec.end());
+                        if (dict[i].count(ivec) == 0)
+                            dict[i].insert(ivec);
+                    }
+        vector<vector<int>> res;
+        for (auto it : dict[target]) res.push_back(it);
         return res;
     }
 private:

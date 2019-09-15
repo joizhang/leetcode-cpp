@@ -12,5 +12,5 @@ TEST_CASE("039. Combination Sum") {
     };
     REQUIRE(s.combinationSum(candidates, 7) == except);
 
-
+    REQUIRE(s.combinationSumDp(candidates, 7) == except);
 }
