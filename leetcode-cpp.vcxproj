@@ -19,7 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="042. Trapping Rain Water\solution.h" />
+    <ClInclude Include="043. Multiply Strings\solution.h" />
+    <ClInclude Include="055. Jump Game\solution.h" />
     <ClInclude Include="Catch2\single_include\catch2\catch.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_automake.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_tap.hpp" />
