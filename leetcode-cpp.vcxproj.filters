@@ -36,6 +36,9 @@
     <ClInclude Include="049. Group Anagrams\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="045. Jump Game II\solution.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="047. Permutations II\TEST.cpp">

@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="043. Multiply Strings\solution.h" />
+    <ClInclude Include="045. Jump Game II\solution.h" />
     <ClInclude Include="047. Permutations II\solution.h" />
     <ClInclude Include="049. Group Anagrams\solution.h" />
     <ClInclude Include="Catch2\single_include\catch2\catch.hpp" />
