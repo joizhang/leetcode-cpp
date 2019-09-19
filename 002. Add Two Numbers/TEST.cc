@@ -28,5 +28,7 @@ TEST_CASE("Add Two Numbers", "addTwoNumbers") {
     Solution s;
     ListNode* l1 = vectorToLinkedList(vector<int>{2, 4, 3});
     ListNode* l2 = vectorToLinkedList(vector<int>{5, 6, 4});
-    REQUIRE(linkedListToVector(s.addTwoNumbers(l1, l2)) == vector<int>{7, 0, 8});
+    //REQUIRE(linkedListToVector(s.addTwoNumbers(l1, l2)) == vector<int>{7, 0, 8});
+
+    REQUIRE(linkedListToVector(s.addTwoNumbers2(l1, l2)) == vector<int>{7, 0, 8});
 }
