@@ -27,21 +27,12 @@
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_teamcity.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="043. Multiply Strings\solution.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="047. Permutations II\solution.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="049. Group Anagrams\solution.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="045. Jump Game II\solution.h">
+    <ClInclude Include="739. Daily Temperatures\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="047. Permutations II\TEST.cpp">
+    <ClCompile Include="739. Daily Temperatures\TEST.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
