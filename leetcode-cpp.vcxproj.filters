@@ -30,6 +30,9 @@
     <ClInclude Include="1122. Relative Sort Array\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="063. Unique Paths II\solution.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1122. Relative Sort Array\TEST.cpp">
