@@ -32,6 +32,7 @@ private:
     list<pair<int, int>> recent;
     unordered_map<int, list<pair<int, int>>::iterator> pos;
 };
+
 /**
  * Your LRUCache object will be instantiated and called as such:
  * LRUCache* obj = new LRUCache(capacity);
