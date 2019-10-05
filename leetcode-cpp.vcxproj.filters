@@ -30,8 +30,5 @@
     <ClInclude Include="071. Simplify Path\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="290. Word Pattern\solution.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
