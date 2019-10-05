@@ -30,13 +30,8 @@
     <ClInclude Include="071. Simplify Path\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="300. Longest Increasing Subsequence\solution.h">
+    <ClInclude Include="290. Word Pattern\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="300. Longest Increasing Subsequence\TEST.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
