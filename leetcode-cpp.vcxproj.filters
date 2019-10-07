@@ -27,15 +27,12 @@
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_teamcity.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="071. Simplify Path\solution.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="264. Ugly Number II\solution.h">
+    <ClInclude Include="287. Find the Duplicate Number\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="264. Ugly Number II\TEST.cpp">
+    <ClCompile Include="287. Find the Duplicate Number\TEST.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
