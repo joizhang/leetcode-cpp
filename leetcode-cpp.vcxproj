@@ -19,14 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="287. Find the Duplicate Number\solution.h" />
+    <ClInclude Include="137. Single Number II\solution.h" />
     <ClInclude Include="Catch2\single_include\catch2\catch.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_automake.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_tap.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_teamcity.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="287. Find the Duplicate Number\TEST.cpp" />
+    <ClCompile Include="137. Single Number II\TEST.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
