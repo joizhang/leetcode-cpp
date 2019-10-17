@@ -30,5 +30,8 @@
     <ClInclude Include="137. Single Number II\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="075. Sort Colors\solution.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
