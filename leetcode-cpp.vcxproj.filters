@@ -30,13 +30,5 @@
     <ClInclude Include="137. Single Number II\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="073. Set Matrix Zeroes\solution.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="073. Set Matrix Zeroes\main.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
