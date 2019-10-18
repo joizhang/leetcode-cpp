@@ -27,10 +27,7 @@
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_teamcity.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="137. Single Number II\solution.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="075. Sort Colors\solution.h">
+    <ClInclude Include="208. Implement Trie (Prefix Tree)\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
