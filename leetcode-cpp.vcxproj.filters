@@ -27,7 +27,10 @@
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_teamcity.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="208. Implement Trie (Prefix Tree)\solution.h">
+    <ClInclude Include="784. Letter Case Permutation\solution.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="090. Subsets II\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
