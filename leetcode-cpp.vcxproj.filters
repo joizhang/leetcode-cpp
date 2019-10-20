@@ -30,5 +30,8 @@
     <ClInclude Include="081. Search in Rotated Sorted Array II\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="0076. Minimum Window Substring\solution.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
