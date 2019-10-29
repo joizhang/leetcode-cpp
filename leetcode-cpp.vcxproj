@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="0076. Minimum Window Substring\solution.h" />
+    <ClInclude Include="0091. Decode Ways\solution.h" />
     <ClInclude Include="081. Search in Rotated Sorted Array II\solution.h" />
     <ClInclude Include="Catch2\single_include\catch2\catch.hpp" />
     <ClInclude Include="Catch2\single_include\catch2\catch_reporter_automake.hpp" />
