@@ -1,6 +1,6 @@
 # leetcode-cpp
 
-## �ղص���Ŀ
+## 收藏的题目
 [3. Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 
 [6. ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/)
