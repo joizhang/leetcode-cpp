@@ -36,5 +36,13 @@
     <ClInclude Include="0091. Decode Ways\solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="1424. Diagonal Traverse II\solution.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1424. Diagonal Traverse II\TEST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
